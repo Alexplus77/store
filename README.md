@@ -1,4 +1,4 @@
-[DEMO](https://alexplus77.github.io/store/)
+## [DEMO](https://alexplus77.github.io/store/)
 
 # Getting Started with Create React App
 
