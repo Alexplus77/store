@@ -1,5 +1,3 @@
-# Get gh pages
-
 [DEMO](https://alexplus77.github.io/store/)
 
 # Getting Started with Create React App
